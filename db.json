@@ -1,11 +1,14 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "User_Name":"8900",
+   "User_Pass":"123",
+   "User_Type":"EmployeeID",
+   "College_Code":"119",
+   "method":"Android",
+   "device_type":"phone",
+   "device_details":"Micromax\/YU Micromax E457",
+   "platform_OS":"5.0.2",
+   "ip_address":"249.173.217.176",
+   "lat":18.5056377,
+   "long":73.8127522,
+   "country_code":""
 }
