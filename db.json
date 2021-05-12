@@ -1,14 +1,145 @@
 {
-   "User_Name":"8900",
-   "User_Pass":"123",
-   "User_Type":"EmployeeID",
-   "College_Code":"119",
-   "method":"Android",
-   "device_type":"phone",
-   "device_details":"Micromax\/YU Micromax E457",
-   "platform_OS":"5.0.2",
-   "ip_address":"249.173.217.176",
-   "lat":18.5056377,
-   "long":73.8127522,
-   "country_code":""
+    
+  "posts": [
+        {
+            "teacher_id": "23215",
+            "teacher_name": "Sakshi Deshmukh",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "COTP",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23165",
+            "teacher_name": "nazim  gufran shaikh",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "COTP",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23138",
+            "teacher_name": "Varun Jay Rajput",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "cotp",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23137",
+            "teacher_name": "Nikita Jay Rajput",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "cotp",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23136",
+            "teacher_name": "Ankita Kishor Rajput",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "cotp",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23118",
+            "teacher_name": "Sanika Suhas Tak",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "cotp",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23117",
+            "teacher_name": "Sayali",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "COTP",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23116",
+            "teacher_name": "Sayali s",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "COTP",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23115",
+            "teacher_name": "Sayali",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "COTP",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23113",
+            "teacher_name": "ram",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "COTP",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23109",
+            "teacher_name": "Ananya Sachit Joshi",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "cotp",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23107",
+            "teacher_name": "p n k",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "cotp",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23096",
+            "teacher_name": "Dhanashri Sagar Dodke",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "cotp",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23095",
+            "teacher_name": "Swati Suhas Patil",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "cotp",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "23093",
+            "teacher_name": "Shreyas Prashant Patil",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "cotp",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "112233",
+            "teacher_name": "Yogesh Fegade",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "COTP",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "12340",
+            "teacher_name": "Yogesh Sonawane",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "COTP",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "1234",
+            "teacher_name": "Kunal Waghmare",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "COTP",
+            "t_designation": null
+        },
+        {
+            "teacher_id": "16335",
+            "teacher_name": "Rakesh K",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "Cotp",
+            "t_designation": "Manager"
+        },
+        {
+            "teacher_id": "421701113",
+            "teacher_name": "priyanka punit singh",
+            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
+            "school_id": "COTP",
+            "t_designation": null
+        }
+    ]
 }
