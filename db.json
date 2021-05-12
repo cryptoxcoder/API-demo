@@ -106,40 +106,6 @@
             "school_id": "cotp",
             "t_designation": null
         },
-        {
-            "teacher_id": "112233",
-            "teacher_name": "Yogesh Fegade",
-            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
-            "school_id": "COTP",
-            "t_designation": null
-        },
-        {
-            "teacher_id": "12340",
-            "teacher_name": "Yogesh Sonawane",
-            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
-            "school_id": "COTP",
-            "t_designation": null
-        },
-        {
-            "teacher_id": "1234",
-            "teacher_name": "Kunal Waghmare",
-            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
-            "school_id": "COTP",
-            "t_designation": null
-        },
-        {
-            "teacher_id": "16335",
-            "teacher_name": "Rakesh K",
-            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
-            "school_id": "Cotp",
-            "t_designation": "Manager"
-        },
-        {
-            "teacher_id": "421701113",
-            "teacher_name": "priyanka punit singh",
-            "teacher_image": "https://dev.smartcookie.in/Assets/images/avatar/avatar_2x.png",
-            "school_id": "COTP",
-            "t_designation": null
-        }
+       
     ]
 }
